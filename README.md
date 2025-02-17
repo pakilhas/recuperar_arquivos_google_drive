@@ -3,7 +3,8 @@
 Este script foi desenvolvido para auxiliar na recuperação de arquivos criptografados pelo ransomware **Hyena22**, que atacou uma empresa, comprometendo seus documentos no Google Drive. Para mitigar os danos, foi criada essa ferramenta em **Google Apps Script**, que verifica os arquivos afetados e restaura automaticamente suas versões anteriores ao ataque.
 
 ## 🛠 Funcionamento do Script
-
+![Interface do Script](img/iniciando.png) 
+![Execução do Script](img/recuperado.png)
 ### 1️⃣ Interface Gráfica Amigável
 - Para facilitar o uso, foi criada uma **tela interativa em HTML**, permitindo que os usuários insiram o **ID da pasta** no Google Drive e iniciem o processo com um clique.
 - A interface exibe um **painel de progresso** que informa quantas pastas foram processadas e quantos arquivos foram restaurados.
